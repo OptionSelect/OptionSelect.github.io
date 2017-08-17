@@ -64,7 +64,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: white;
-  background-color: #18BC9C;
+  background-color: #3f6cd3;
 }
 
 hr.star-primary {
@@ -91,7 +91,7 @@ section h2 {
 
 section.success {
   color: white;
-  background: #3F5DFF;
+  background: #3f6cd3;
 }
 
 @media (max-width: 767px) {
@@ -221,7 +221,7 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
-  background: #3F5DFF;
+  background: #3f6cd3;
 }
 
 header.masthead img {
