@@ -91,7 +91,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c
+    background: #001793
 }
 
 @media (max-width:767px) {
@@ -221,7 +221,7 @@ header.masthead {
     padding-bottom: 50px;
     text-align: center;
     color: #fff;
-    background: #18bc9c
+    background: #001793;
 }
 
 header.masthead img {
